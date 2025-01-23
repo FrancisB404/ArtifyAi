@@ -2,8 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="![Untitled design](https://github.com/user-attachments/assets/6342f591-bd2c-464d-be06-d6cf77294918)
-" width="" height="350" />
+  <img alt="Template Logo" src="" width="" height="350" />
   <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
   <p align="center">A project for ... by team ... </p>
 </p>
