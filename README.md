@@ -75,9 +75,7 @@ TBD
 
 
 ## :mag_right: Similar Projects
-<i>Blending Reality (Teaching 3D modelling and Augmented Reality with Blender and Aero),  Example: </i> 
-
-If you're interested in more workshops that utilize Art OR AI with Art, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
+<i>Blending Reality (Teaching 3D modelling and Augmented Reality with Blender and Aero)https://tapggc.org/projects/2024/spring/blending-reality/ 
 
 ## :computer: Technology
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
