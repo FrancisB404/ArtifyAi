@@ -99,10 +99,6 @@ Why we chose DALL-E: It allows for fast and creative image generation based on p
 
 
 
-## Project Setup/Installation 
-<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
-
-Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## First Installation Walkthrough
