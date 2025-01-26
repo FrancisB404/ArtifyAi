@@ -34,7 +34,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.) 
 * <b>Needed Materials:</b> Materials needed to do your workshop (computer with keyboard, sphero, etc.)
 * <b>Learning Outcomes:</b> The primary goal of this project is to teach participants ...
-* <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
+* <b>Your Main Technology</b> Java and Ai. You will go more in depth on the technology used in a different section. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
