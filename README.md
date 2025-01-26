@@ -38,7 +38,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
-[Commercial Video](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/94b037a6-8912-44da-8a8c-84c0b8a0afb8)
+[Commercial Video] TBD
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
@@ -62,14 +62,15 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
+In this project, participants will explore the intersection of creativity, AI, and programming by creating interactive art. They’ll start by generating an image from a text prompt using DALL-E AI, then use an interactive canvas to color and design their artwork. While doing this, they’ll learn basic programming concepts through Java, gaining insight into how AI and coding work together behind the scenes
+
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Claudio, Francis, and Maggie. "Artify AI", TAP EXPO, March 4, 2025.  
+TBD  
 
 ## :open_hands: Outreach
-<i>List the outreach events your team has participated in. </i>
+<i>TBD </i>
 
 Example:
 
