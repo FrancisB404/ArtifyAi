@@ -2,8 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="ArtifyAI Logo" src = "![Untitled design (1)](https://github.com/user-attachments/assets/72a87b03-234a-4414-bc35-e08842f33c84)
-" width="200" height="200"/>
+  <img alt="Logo" src="media/logos/Untitled design (1).png" width="" height="350" />
 </p>
   <h1 align="center">Artify AI (A Interactive Artistic Experience that is powered by AI)</h1>
   <p align="center">A project for TAP by Artify AI </p>
