@@ -95,14 +95,12 @@ If you're interested in more workshops that utilize Art OR AI with Art, check ou
 DALL-E (AI)(https://openai.com/index/dall-e/)
 An AI model that generates images from textual descriptions. It will be used to create art templates based on participant-provided prompts.
 
+
 Why we chose Processing: It is easy to use and helps participants create interactive and visual art while learning programming concepts. This makes it ideal for engaging participants in both art and coding.
 
 Why we chose DALL-E: It allows for fast and creative image generation based on participant prompts, making the process fun, interactive, and highly engaging.
 
 
-<p align="center">
-<img src = "media/technology/block-based language.png" width ="400" height="200">
-</p>
 
 ## Project Setup/Installation 
 <i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
