@@ -2,7 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Artify AI" src="https://files.oaiusercontent.com/file-8ewL6k5N8pa6zGYtfYPTnr?se=2025-01-26T02%3A05%3A05Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dcc4cee86-b1cf-4562-a9bf-f3eaf2929ccc.webp&sig=ZsRQl%2B35Vbbb821bxCK1pvbnJx6FyU1N6tWiLq626d0%3D" width="200" height="350" />
+  <img alt="Artify AI" src="https://files.oaiusercontent.com/file-8ewL6k5N8pa6zGYtfYPTnr?se=2025-01-26T02%3A05%3A05Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dcc4cee86-b1cf-4562-a9bf-f3eaf2929ccc.webp&sig=ZsRQl%2B35Vbbb821bxCK1pvbnJx6FyU1N6tWiLq626d0%3D" width="250" height="350"/> </p>
   <h1 align="center">Artify AI (A Interactive Artistic Experience that is powered by AI)</h1>
   <p align="center">A project for TAP by Artify AI </p>
 </p>
