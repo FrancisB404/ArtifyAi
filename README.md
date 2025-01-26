@@ -34,7 +34,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>Difficulty Level:</b> Beginner
 * <b>Target Audience:</b> 10+, Artists and Designers, Teenagers, STEAM or Non-STEM major
 * <b>Duration of Workshop:</b> 45-65 Minutes
-* <b>Needed Materials:</b> A computer with keyboard and mouse, and internet connectivity
+* <b>Needed Materials:</b> A computer with keyboard, mouse, and internet connectivity
 * <b>Learning Outcomes:</b> The primary goal of this project is to teach participants how to combine creativity with technology by exploring the basics of AI, interactive design, and programming
 * <b>Your Main Technology</b> Java and Ai. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
