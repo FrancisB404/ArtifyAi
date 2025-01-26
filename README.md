@@ -84,7 +84,7 @@ TBD
   <img alt="Processing Logo" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" width="200" height="200"/>
 </p>
 
-* [Processing](https://processing.org/)uses Java’s programming language and is used for making visuals and interactive graphics .
+* [Processing](https://processing.org/) uses Java’s programming language and is used for making visuals and interactive graphics .
 
 
 <p align="center">
