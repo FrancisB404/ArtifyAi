@@ -89,7 +89,7 @@ TBD
 <p align="center">
   <img alt="DALL-E Logo" src = "https://digitale-lehre.uni-siegen.de/wp-content/uploads/2024/07/DALL-E_logo1200x600.png" width="350" height="200"/>
 </p>
-DALL-E AI(https://openai.com/index/dall-e/)
+<a href="https://openai.com/index/dall-e/">DALL-E AI</a>
 An AI model that generates images from textual descriptions. It will be used to create art templates based on participant-provided prompts.
 
 
