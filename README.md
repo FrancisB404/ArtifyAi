@@ -89,8 +89,10 @@ If you're interested in more workshops that utilize Art OR AI with Art, check ou
 * [Processing](https://processing.org/) Processing uses Java’s programming language and is used for making visuals and interactive graphics .
 
 
+<p align="center">
+  <img alt="DALL-E Logo" src = "https://digitale-lehre.uni-siegen.de/wp-content/uploads/2024/07/DALL-E_logo1200x600.png" width="200" height="200"/>
+</p>
 DALL-E (AI)(https://openai.com/index/dall-e/)
-  <img alt="Dall-e Logo" src = "https://i.pinimg.com/736x/7e/ee/2f/7eee2fc41654561afbe2ded749b06b29.jpg" width="200" height="200"/>
 An AI model that generates images from textual descriptions. It will be used to create art templates based on participant-provided prompts.
 
 Why we chose Processing: It is easy to use and helps participants create interactive and visual art while learning programming concepts. This makes it ideal for engaging participants in both art and coding.
