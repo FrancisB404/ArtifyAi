@@ -83,12 +83,17 @@ If you're interested in more workshops that utilize Art OR AI with Art, check ou
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img alt="Processing Logo" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" width="200" height="200"/>
 </p>
 
-* [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* Explain why your team chose this technology for this workshop.
+* [Processing](https://processing.org/) Processing uses Java’s programming language and is used for making visuals and interactive graphics .
+DALL-E (AI)(https://openai.com/index/dall-e/)
+An AI model that generates images from textual descriptions. It will be used to create art templates based on participant-provided prompts.
+
+Why we chose Processing: It is easy to use and helps participants create interactive and visual art while learning programming concepts. This makes it ideal for engaging participants in both art and coding.
+
+Why we chose DALL-E: It allows for fast and creative image generation based on participant prompts, making the process fun, interactive, and highly engaging.
+
 
 <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
