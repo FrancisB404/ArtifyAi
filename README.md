@@ -66,7 +66,7 @@ A more thorough description of your project. Not a full walkthrough, but describ
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
+1. Claudio, Francis, and Maggie. "Artify AI", TAP EXPO, March 4, 2025.  
 
 ## :open_hands: Outreach
 <i>List the outreach events your team has participated in. </i>
