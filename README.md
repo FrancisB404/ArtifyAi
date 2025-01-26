@@ -90,7 +90,7 @@ If you're interested in more workshops that utilize Art OR AI with Art, check ou
 
 
 <p align="center">
-  <img alt="DALL-E Logo" src = "https://digitale-lehre.uni-siegen.de/wp-content/uploads/2024/07/DALL-E_logo1200x600.png" width="200" height="200"/>
+  <img alt="DALL-E Logo" src = "https://digitale-lehre.uni-siegen.de/wp-content/uploads/2024/07/DALL-E_logo1200x600.png" width="300" height="300"/>
 </p>
 DALL-E (AI)(https://openai.com/index/dall-e/)
 An AI model that generates images from textual descriptions. It will be used to create art templates based on participant-provided prompts.
