@@ -86,13 +86,13 @@ If you're interested in more workshops that utilize Art OR AI with Art, check ou
   <img alt="Processing Logo" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" width="200" height="200"/>
 </p>
 
-* [Processing](https://processing.org/) Processing uses Java’s programming language and is used for making visuals and interactive graphics .
+* [Processing](https://processing.org/)uses Java’s programming language and is used for making visuals and interactive graphics .
 
 
 <p align="center">
   <img alt="DALL-E Logo" src = "https://digitale-lehre.uni-siegen.de/wp-content/uploads/2024/07/DALL-E_logo1200x600.png" width="350" height="200"/>
 </p>
-DALL-E (AI)(https://openai.com/index/dall-e/)
+[DALL-E AI](https://openai.com/index/dall-e/)
 An AI model that generates images from textual descriptions. It will be used to create art templates based on participant-provided prompts.
 
 
