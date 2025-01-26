@@ -80,7 +80,6 @@ TBD
 If you're interested in more workshops that utilize Art OR AI with Art, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
 
 ## :computer: Technology
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
   <img alt="Processing Logo" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" width="200" height="200"/>
@@ -113,27 +112,19 @@ Your repo doesn't have to have every section used below. This is just an example
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-## CS First Installation Walkthrough
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
+## First Installation Walkthrough
+TBD
 
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
+### Getting to the System 
+TBD
 
 ## Usage
-<i> Describe HOW to use your game. </i> 
-Example: 
-1. Press the Left arrow key to move to the left.
-2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey. 
+TBD
 
 ## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
+TBD
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
-
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
+TBD
 
 
