@@ -46,7 +46,7 @@ You can select from a range of audiences or a single auidience. Examples:
 ## :pencil2: Team: Artify AI
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-  <img alt="Logo" src="media/logos/Untitled design (1).png" width="350" height="350" />
+  <img alt="Logo" src="media/logos/Untitled design (7).png width="350" height="350" />
 </p>
 
 > (From left to right: Claudio, Francis, and Maggie.)
