@@ -51,7 +51,6 @@ You can select from a range of audiences or a single auidience. Examples:
 </p>
 
 > (From left to right: Claudio, Francis, and Maggie.)
-<!-- replace with full names of your team members -->
 
 * Claudio
 * Francis
