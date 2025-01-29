@@ -13,7 +13,7 @@
 The objective of the workshop is to showcase how users can make their ideas fun through art, stories, and templates using AI. 
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This interactive workshop allows participants to explore the combination of creativity, AI, and programming through art. Using tools like Processing, Java, and DALL-E, participants create personalized images based on their input and then color and design them on an interactive canvas.
+This interactive workshop allows participants to explore the combination of creativity, AI, and programming through art. Using tools like Processing, Java, and Microsoft Copilot AI, participants create personalized images based on their input and then color and design them on an interactive canvas.
 
 ## :bulb: Project Information
 <!-- 
