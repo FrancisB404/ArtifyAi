@@ -59,8 +59,8 @@ You can select from a range of audiences or a single auidience. Examples:
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
-* Dr. Gunay
-* Dr. Rob
+* Dr. Cengiz Gunay
+* Dr. Cindy Robertson
 
 
 ## :page_with_curl: Project Description
